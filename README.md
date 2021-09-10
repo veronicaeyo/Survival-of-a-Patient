@@ -1,7 +1,5 @@
 # Survival-of-a-Patient
 
-
-
  ## Business Problem  
  A hospital has been trying to improve its care conditions by analyzing the historic survival of its patients. They tried looking at their data but could not identify the main factors leading to high survivals.
  
@@ -48,13 +46,14 @@ Libraries used - To succesfully run this Jupyter notebook the following librarie
 ## Data Preprocessing
 Preprocessing work done on the data included:
 
-1.Outlier removal
+1. Outlier removal
 
-2.Label and one hot encoding
+2. Label and one hot encoding for categorical data
 
-3.Handling of missing data by median imputation
+3. Handling of missing data by median imputation
 
-4.Replacing missing values  with a hard coded values like zero (eg 1 for yes, 0 for none)
+4. Replacing missing values  with a hard coded values like zero (eg 1 for yes, 0 for none)
+
 
 
 ## Models 
